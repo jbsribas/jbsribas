@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 - I’ve been working in the Information Technology field since :two::zero::zero::seven:
-- 🎓 Ph.D. candidate in Computer Science at UFSCar PUC- Rio.
+- 🎓 Ph.D. candidate in Computer Science at PUC- Rio.
 - 🔭 Currently investigating emotional expression and interaction dynamics in Reddit communities using NLP techniques and models such as RoBERTa and BERTopic.
 - 🤓 Research interests: Natural Language Processing, Software Engineering, .
 - ✨ Advocate for diversity in tech and reproducible science.
