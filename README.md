@@ -20,8 +20,14 @@
 
 ### 🔍 Featured Projects
 
-- [**Diversity Matters**](https://github.com/aisepucrio/Diversity4BRSE): Perceived Inclusion and Discrimination by Brazilian Tech Professionals
+
 - 💬 [**Pain in a Safe Space**](https://github.com/aisepucrio/subredditWomanAnalysis):Mapping Emotions and Discourse in the *Womenintech* Community.
+  
+- [**Diversity Matters**](https://github.com/aisepucrio/Diversity4BRSE): Perceived Inclusion and Discrimination by Brazilian Tech Professionals
+
+
+- [**ImprovMLCQ**](https://github.com/aisepucrio/ImprovMLCQ): A Feature-Enriched Dataset or Advancing Code Smell Detection
+
 - 
 
 
