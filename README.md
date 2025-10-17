@@ -14,7 +14,7 @@
 - ✨ Advocate for diversity in tech and reproducible science.
   
 - **Hobbies:** watching series and anime :tv: :popcorn:  
-- **Pets:** Nick :cat: and Vesgo 🐈
+- **Pets:** Nick :cat: and Dollar 🐈
 
 ---
 
@@ -28,10 +28,7 @@
 
 - [**ImprovMLCQ**](https://github.com/aisepucrio/ImprovMLCQ): A Feature-Enriched Dataset or Advancing Code Smell Detection
 
-- 
-
-
-
+  
 ---
 
 ### 📊 Technologies & Tools
@@ -57,6 +54,7 @@
 ### 📝 Recent Publications
 
 - 📰 Diversity Matters: Perceived Inclusion and Discrimination by Brazilian Tech Professionals (2025)
+- 📰 ImprovMLCQ: A Feature-Enriched Dataset for Advancing Code Smell Detection (2025)
 - 📰 *Pain in a Safe Space: Temporal Analysis of Discourses in the Womenintech Subreddit* (2025)
 
 
